@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Pouya Bapiry</h1>
 
 <p align="center">
-  💻 <strong>.NET Developer | Backend Engineer | API & Database Designer</strong>  
+  💻 <strong>.NET Developer | Backend Engineer | Web Developer | API & Database Designer</strong>  
   <br/>
   Passionate about building clean, scalable, and high-performance web applications.
 </p>
