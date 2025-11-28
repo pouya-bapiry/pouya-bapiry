@@ -1,40 +1,30 @@
-I want you to generate a complete, visually polished, modern, and fully structured GitHub profile README for me.
+Create a complete GitHub profile README for me.  
+Use the exact visual style of modern dark-themed READMEs like the screenshots I provided (Tech Stack badges, Featured Projects cards, GitHub Stats, Most Used Languages, and a clean layout).
 
-⚡ Style I want:
-- Dark theme overall
-- Colorful section headers like the sample screenshots I provided
-- Clean layout with icons (emojis + shields.io badges)
-- A professional but friendly tone
-- Card-style sections for Featured Projects
-- Tech Stack shown with colored badges grouped by category
-- GitHub Stats section using standard stat images
-- “About Me” section similar to the reference, but written for ME personally
-- Project Details table with short descriptions + tech stack badges + “Live Demo” / “View Code”
-- Everything should be well-aligned and beautifully formatted in Markdown.
+Rules:
+- Output must be fully formatted Markdown.
+- Use shields.io badges with colors.
+- Use emojis in section titles.
+- Do NOT write explanation. Only output the final README.
+- Layout sections exactly like the reference screenshots.
 
-📌 My Info:
+My information:
 Name: Pouya  
 Role: .NET Backend Developer  
-Location: — (don’t show exact location)  
-Skills: C#, ASP.NET Core, EF Core, SQL Server, Clean Architecture, DDD, REST APIs  
-Currently learning: Advanced .NET, Distributed systems, Microservices  
-Interests: Programming, AI, Web development  
-Personality: direct, honest, practical, disciplined
+Skills: C#, ASP.NET Core, EF Core, SQL Server, Clean Architecture, DDD  
+Interests: Coding, AI, Backend engineering  
+Contact: Put placeholders for now  
+Projects: Create 3 sample professional .NET projects with short descriptions
 
-📌 Required Sections:
-1. Big header with my name + title  
+Sections to include (exact order):
+1. Hero Header with name + title  
 2. About Me  
-3. What Drives Me  
-4. Tech Stack (Frontend / Backend / Database / Tools)  
-5. Featured Projects (3 items)  
+3. What I Do  
+4. Tech Stack (Frontend, Backend, Databases, Tools — each with badges)  
+5. Featured Projects (3 cards with badges)  
 6. Project Details table  
-7. GitHub Stats  
+7. GitHub Stats section  
 8. Most Used Languages  
-9. Contact Links (GitHub, Telegram, etc.)
+9. Contact Me
 
-📌 IMPORTANT:
-- Generate everything in pure Markdown (no HTML divs)  
-- Use shields.io badges similar to the screenshots  
-- Make the style modern and aesthetic  
-- Use consistent colors  
-- Make it look professional and unique  
+Make the design modern, colorful, clean, similar to the screenshots in structure and mood.
