@@ -1,62 +1,40 @@
-<h1 align="center">👋 Hi there, I'm Pouya Bapiry</h1>
+I want you to generate a complete, visually polished, modern, and fully structured GitHub profile README for me.
 
-<p align="center">
-  💻 <strong>.NET Developer | Backend Engineer | Web Developer | API & Database Designer</strong>  
-  <br/>
-  Passionate about building clean, scalable, and high-performance web applications.
-</p>
+⚡ Style I want:
+- Dark theme overall
+- Colorful section headers like the sample screenshots I provided
+- Clean layout with icons (emojis + shields.io badges)
+- A professional but friendly tone
+- Card-style sections for Featured Projects
+- Tech Stack shown with colored badges grouped by category
+- GitHub Stats section using standard stat images
+- “About Me” section similar to the reference, but written for ME personally
+- Project Details table with short descriptions + tech stack badges + “Live Demo” / “View Code”
+- Everything should be well-aligned and beautifully formatted in Markdown.
 
----
+📌 My Info:
+Name: Pouya  
+Role: .NET Backend Developer  
+Location: — (don’t show exact location)  
+Skills: C#, ASP.NET Core, EF Core, SQL Server, Clean Architecture, DDD, REST APIs  
+Currently learning: Advanced .NET, Distributed systems, Microservices  
+Interests: Programming, AI, Web development  
+Personality: direct, honest, practical, disciplined
 
-### 🧠 About Me
-Hi! I'm a backend developer specializing in **.NET**, **C#**, and **Entity Framework Core**.  
-I love designing clean architectures, optimizing databases, and creating robust **Web APIs**.  
-With a strong focus on performance and security, I aim to build applications that truly scale.  
-When I’m not coding, I enjoy learning new technologies and improving my development workflow.
+📌 Required Sections:
+1. Big header with my name + title  
+2. About Me  
+3. What Drives Me  
+4. Tech Stack (Frontend / Backend / Database / Tools)  
+5. Featured Projects (3 items)  
+6. Project Details table  
+7. GitHub Stats  
+8. Most Used Languages  
+9. Contact Links (GitHub, Telegram, etc.)
 
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/pouya-bapiry/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/mixmix02" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
-
----
-
-### ⚙️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-6A1577?logo=efcore&logoColor=white" alt="EF Core"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?logo=swagger&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pouya-bapiry&show_icons=true&theme=tokyonight&count_private=true" alt="Pouya's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouya-bapiry&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
-</p>
-
----
-
-### 🧩 A Bit More
-- 🌱 Always learning and exploring **clean architecture** and **microservices**  
-- ⚡ Enjoy solving backend challenges and designing efficient **database schemas**  
-- 🎯 My goal: build systems that are both **elegant** and **powerful**  
-
----
-
-⭐️ From [Pouya Bapiry](https://github.com/pouya-bapiry)
+📌 IMPORTANT:
+- Generate everything in pure Markdown (no HTML divs)  
+- Use shields.io badges similar to the screenshots  
+- Make the style modern and aesthetic  
+- Use consistent colors  
+- Make it look professional and unique  
